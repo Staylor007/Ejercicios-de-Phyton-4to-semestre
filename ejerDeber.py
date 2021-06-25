@@ -1,3 +1,4 @@
+#clase de 24 de junio
 class Tarea:
     def __init__(self):
         pass
